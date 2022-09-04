@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="text">Rockument focuses on the cultural impact of rock music on the world, and the roots and foundations of rock music and its culture.
+
+Rockument.com offers a podcast of shows devoted to rock music history. Each show includes information about each song and its musicians, with links to artist, fan, and historical sites, and links to music for purchase on Amazon.com or iTunes. You can subscribe to the free podcast to receive each show automatically, or play the show right from the Web page. You can even download the show as an MP3 file, all for free. The music is licensed directly from its owners. \n
+
+Rockument’s first commercial documentary, Haight-Ashbury in the Sixties, garnered critical acclaim and published reviews that referred to it as “An unflinching, nonjudgmental chronicle” (Wired), “Inspires then and now connections, fulfilling any historical work’s highest calling” (S.F. Examiner), “Truly greater than the sum of its parts” (N.Y. Post). \n
+
+While many music services focus on hits, contemporary music, live shows, etc., Rockument dives deep into back catalogs to unearth the gems from the past and present them in their proper context. Rockument shows include overlooked album cuts and rare songs, and focus on musical and cultural influences that shaped the history of rock music, with historical accounts and sources. The goal is to provide a consistent source of high-quality history-based entertainment for rock music collectors and avid fans.
+    </string>
+    <string name="calculator">CALCULATOR</string>
+    <string name="masukan_1">Masukan 1</string>
+    <string name="masukan_2">Masukan 2</string>
+    <string name="tambah">+</string>
+    <string name="kurang">-</string>
+    <string name="kali">x</string>
+    <string name="bagi">:</string>
+    <string name="result">Result =</string>
+    <string name="hasil_operasi">0</string>
+</resources>
